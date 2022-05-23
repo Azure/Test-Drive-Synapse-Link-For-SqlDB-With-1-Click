@@ -1,0 +1,14 @@
+{
+    "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+    "itemDisplayName": "Azure Synapse SQL Link Proof-of-Concept",
+    "description": "This template creates a proof of concept environment for Azure Synapse, including SQL Pools and optional Apache Spark Pools,Synapse SQL Link",
+    "summary": "Azure Synapse SQL Link Proof-of-Concept",
+    "validationType": "Manual",
+    "githubUsername": "nashahz",
+    "dateUpdated": "2020-09-10",
+    "type": "QuickStart",
+    "environments": [
+      "AzureCloud"
+    ]
+  }
+  
